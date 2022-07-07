@@ -1,0 +1,15 @@
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\bin\Debug\net6.0\Selection_Statementsv2.exe
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\bin\Debug\net6.0\Selection_Statementsv2.deps.json
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\bin\Debug\net6.0\Selection_Statementsv2.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\bin\Debug\net6.0\Selection_Statementsv2.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\bin\Debug\net6.0\Selection_Statementsv2.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\refint\Selection_Statementsv2.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\Selection_Statementsv2.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Selection_Statementsv2\Selection_Statementsv2\obj\Debug\net6.0\ref\Selection_Statementsv2.dll
